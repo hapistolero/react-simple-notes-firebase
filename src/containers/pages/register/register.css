@@ -1,0 +1,18 @@
+.div-login{
+    margin: auto;
+    margin-top:2em;
+    display:flex;
+    flex-direction:column;
+    max-width: 50%;
+    height:fit-content;
+    padding:1em;
+    border: 1px solid black;
+}
+
+.btn-login{
+    display:inline;
+    width:50%;
+    background-color: blue;
+    color:white;
+    cursor:pointer;
+}
